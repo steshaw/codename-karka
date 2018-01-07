@@ -14,7 +14,8 @@ bias towards my libraries. Hopefully others contribute their ideas
 too.
 
 __Naming__ We already have `yesod`, which means foundation in
-Hebrew. And we have `foundation`, which means... foundation. Karka
+Hebrew. And we have [`foundation`](https://github.com/haskell-foundation/foundation),
+which means... foundation. Karka
 (קרקע) is the Hebrew word for "ground." This is the ground on which to
 build awesome Haskell stuff. This is just a name to be used when
 discussing the project initially, no library is intended to use this
